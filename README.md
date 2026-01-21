@@ -2,7 +2,7 @@
 
 ##  Dashboard Preview
 
-![Employee Attrition Analytics Dashboard](dashboard.png)
+![Employee Attrition Analytics Dashboard](hr_dashboard_preview.png)
 
 ##  Project Overview
 
